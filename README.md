@@ -34,11 +34,17 @@
 ###
 
 <div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <a href="https://www.linkedin.com/in/jimy121/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+</a>
+
+  <a href="https://www.fiverr.com/alyankhan22?public_mode=true" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Fiverr logo" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01cc605e915be2bc25?viewMode=1" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Upwork logo" />
 </a>
 </div>
 
